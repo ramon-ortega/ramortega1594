@@ -1,4 +1,4 @@
-Hi there 👋 I'm UxorialColt. I'm mexican physicist and web developtment with passion about data science!. Sometimes I like streaming videogames in twitch: UxorialColt.
+Hi there 👋 I'm UxorialColt. I'm mexican physicist and web developtment with passion for data science!. Sometimes I like streaming videogames in twitch: UxorialColt.
 
 
 - 🔭 I’m currently working on web development and energy projects.
